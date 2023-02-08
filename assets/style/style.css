@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body h1 {
+    font-size: 10em;
+    color: rgb(94, 94, 199);
+}
+
+body article {
+    font-size: 4em;
+    color: gray;
+}
